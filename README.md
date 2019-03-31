@@ -2,8 +2,8 @@ Admin dashboard for a car leasing website at https://rent-auto.biz.tm/cars
 the dashboard is at https://adm.rent-auto.biz.tm/
 
 The program is an integrated application with server and client parts.
-The functionality of admin part of the site is using React JS 
-The backend is using RubyOnRails
+The functionality of website's admin dashboard is using React JS as frontend
+and RubyOnRails as the backend
 
 Technologies used: React js/ redux/ axios / material ui / scss
 
