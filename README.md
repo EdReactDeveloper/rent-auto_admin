@@ -8,8 +8,9 @@ and RubyOnRails as the backend
 Technologies used: React js/ redux/ axios / material ui / scss
 
 to start the app: npm start
-decrition: 
-the admin panel includes:
+
+descrition: 
+the admin dashboard includes:
 1. authentication by web token recieved from the server 
 2. edit a car info: upload, remove or change the image, change car info in the form fields
 3. add and remove cars
