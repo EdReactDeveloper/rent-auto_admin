@@ -12,7 +12,7 @@ to start the app: npm start
 descrition: 
 the admin dashboard includes:
 1. authentication by web token recieved from the server 
-2. edit a car info: upload, remove or change the image, change car info in the form fields
+2. edit the car info: upload, remove or change the image, change car info in the form fields
 3. add and remove cars
 4. add and edit the additional options
 5. the language display is internationalized
